@@ -1,3 +1,3 @@
 # Pole Danjo Project.
 
-Voting Danjo code. 
+Voting App generated using the Python Framewoek Django. 
